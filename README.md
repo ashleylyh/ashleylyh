@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashley LI
+- 🌱 I’m currently HKUST Year 2 student Major in Computer Engineering
 
 <!--
 **ashleylyh/ashleylyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
