@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ashley LI
-- 🌱 I’m currently HKUST Year 2 student Major in Computer Engineering
+- 🌱 I’m currently HKUST Year 3 student Major in Computer Engineering and Minor in Big Data Technology
 
 <!--
 **ashleylyh/ashleylyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
