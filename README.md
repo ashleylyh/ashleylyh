@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ashley LI
-- 🌱 I’m currently HKUST Year 3 student Major in Computer Engineering and Minor in Big Data Technology
+- 🌱 I’m currently HKUST Year 4 student Major in Computer Engineering and Minor in Big Data Technology
 - 🔭 I'm interested in Software development-related and AI-related work! 
 - 📫 How to reach me: Email: yuhsi.1026@gmail.com / Whatsapp: +852 46701581
 <!--
